@@ -1,15 +1,7 @@
-### Hi there 👋. Let's me introduce myself
+### My pleasure to introduce myself 👋
 
-<!--
-**vdntruong/vdntruong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I'm a young software developer with good experience working with many programming languages such as C#, Java, Python, PHP, Javascript, Golang
+- 🌱 Currently, researching and working with Golang programming language
+- ⚡ This place to share some code I learned
+- 👯 Make some noise
 
-Here are some ideas to get you started:
--->
-- 🔭 I’m currently working on TMA Solution
-- 🌱 I’m currently learning Go programming language
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
